@@ -10,7 +10,7 @@ const Home = () => {
 
     const [random, setRandom] = React.useState('');
     const [word, setWord] = React.useState('');
-    const [dataName, setDataName] = React.useState('albin');
+    const [dataName, setDataName] = React.useState('Joju');
     const [inputArray, setInputArray] = React.useState([]);
 
     function generate() {
